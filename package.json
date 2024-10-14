@@ -1,6 +1,6 @@
 {
   "name": "solana-bundling",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Solana Bundling TypeScript Toolkit API",
   "scripts": {
     "test": "mocha test.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jasonlee829/solana-bundling.git"
+    "url": "https://github.com/jasonpitch/solana-bundling.git"
   },
   "publishConfig": {
     "access": "public",
