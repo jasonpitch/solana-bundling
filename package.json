@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jasonlee829/solana-bundling.git"
+    "url": "git+https://github.com/jasonlee829/solana-bundling.git"
   },
   "publishConfig": {
     "access": "public",
-    "registry": "https://registry.npmjs.org/"
+    "@jasonlee829": "https://npm.pkg.github.com"
   },
   "homepage": "https://solana.com",
   "keywords": [
